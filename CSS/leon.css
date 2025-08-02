@@ -440,12 +440,17 @@ color: #b1b1b1;
 }
 @media (max-width: 767px) {
 .contact .info .label{
-  font-size: 25pt;
+  font-size: 20pt;
 }
 }
 @media (max-width: 767px) {
 .contact .info .link{
-  font-size: 20pt;
+  font-size: 15pt;
+}
+}
+@media (max-width: 767px) {
+.contact .info .social{
+  font-size: 10pt;
 }
 }
 /* End Contact */
